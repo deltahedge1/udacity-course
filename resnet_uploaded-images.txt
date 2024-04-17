@@ -1,0 +1,17 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 4 key-value pairs.
+Below are 4 of them:
+ 1 key:                    Lion_01.jpg  label:                       lion
+ 2 key:         german_shepherd_02.jpg  label:            german shepherd
+ 3 key:                     Mug_01.jpg  label:                        mug
+ 4 key:         german_shepherd_01.jpg  label:            german shepherd
+> /workspace/home/classify_images.py(106)classify_images()
+-> results_dic[key].append(model_label)
+(Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) (Pdb) (Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) (Pdb) 
